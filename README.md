@@ -1,2 +1,3 @@
 # PDF-merger
-Code I use to merge pdf files starting with the same letters in the current working directory. There is an option to exclude the first x pages in each file.
+PDF_merger.py- Combines all the PDFs in the current working directory (with a certain name) into a single PDF.
+There is an option to exclude the first x pages in each file.
